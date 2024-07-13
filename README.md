@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aditirock
+- 👋 Hi, I’m @aditi
 - 👀 I’m interested in coding and i am a beginner 
-- 🌱 I’m currently learning c language  
+- 🌱 I have learned the basics of C , C++ , Python , MySQL   
 - 💞️ I’m looking to collaborate on basic yet interesting projects
 - 📫 How to reach me ? my email id is aditi06012003@outlook.com
 
